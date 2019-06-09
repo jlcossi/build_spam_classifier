@@ -1,0 +1,6 @@
+name: spamclassifier
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - jupyter
