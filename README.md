@@ -9,10 +9,10 @@ Being able to identify spam messages is a binary classification problem as messa
 
 # Results
 
-Accuracy score:  0.9885139985642498
-Precision score:  0.9720670391061452
-Recall score:  0.9405405405405406
-F1 score:  0.9560439560439562
+Accuracy score:  0.9885139985642498.  
+Precision score:  0.9720670391061452.  
+Recall score:  0.9405405405405406.  
+F1 score:  0.9560439560439562.  
 
 # Overview
 
